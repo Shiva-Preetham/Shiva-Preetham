@@ -10,7 +10,7 @@
 
 </div>
 
-## 👋 Hey, I'm Shiva
+## 👋 Hey, I'm Shiva Preetham
 
 I'm a CSE undergrad at **JIIT Noida** who builds AI systems you can actually trust: models that explain their predictions, LLM pipelines with guardrails written in code, and agents that ask a human before doing anything that matters. I like taking a project all the way from notebook to a deployed, tested app.
 
