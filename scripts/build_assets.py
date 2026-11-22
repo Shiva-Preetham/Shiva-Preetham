@@ -197,7 +197,7 @@ def header():
 HIGHLIGHTS = [
     ("#1", "Rank in admission", "counselling at JIIT", "JIIT · 2024", TEAL),
     ("Top 13%", "HackerRank Orchestrate", "rank 227 of 1,773", "JUN 2026", VIOLET),
-    ("200+", "DSA problems solved", "on LeetCode", "C++", AMBER),
+    ("300+", "DSA problems solved", "on LeetCode", "C++", AMBER),
     ("98.3%", "Class XII overall", "with 100% in PCM", "TSBIE", PINK),
 ]
 
@@ -226,7 +226,7 @@ def highlights():
         g.append("</g>")
         body += g
     defs.append("</defs>")
-    return svg(W, H, "\n".join(defs + body), "Highlights: rank 1 in JIIT admission counselling, top 13% in HackerRank Orchestrate, 200+ LeetCode problems, 98.3% in Class XII")
+    return svg(W, H, "\n".join(defs + body), "Highlights: rank 1 in JIIT admission counselling, top 13% in HackerRank Orchestrate, 300+ LeetCode problems, 98.3% in Class XII")
 
 
 # =========================================================== project art ==

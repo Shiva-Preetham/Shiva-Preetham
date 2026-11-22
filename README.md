@@ -20,7 +20,7 @@ class ShivaPreetham:
     focus      = ["explainable ML", "multimodal LLM pipelines", "agentic workflows", "full-stack AI apps"]
     principle  = "Models gather evidence. Code makes the call. Humans approve."
     building   = ["ChurnSense (Agile PBL)", "MalariaVision (Image Processing & CV PBL)"]
-    practising = "DSA in C++ on NeetCode / LeetCode (200+ solved)"
+    practising = "DSA in C++ on NeetCode / LeetCode (300+ solved)"
     fun_fact   = "Scored 100% in PCM in Class XII"
 ```
 
@@ -44,7 +44,7 @@ You'll see it in **SaveFlow** (the LLM can only pick from offers the code allows
 
 <br/>
 
-<img src="assets/highlights.svg" width="100%" alt="Highlights: rank 1 in JIIT admission counselling, top 13% in HackerRank Orchestrate, 200+ LeetCode problems, 98.3% in Class XII" />
+<img src="assets/highlights.svg" width="100%" alt="Highlights: rank 1 in JIIT admission counselling, top 13% in HackerRank Orchestrate, 300+ LeetCode problems, 98.3% in Class XII" />
 
 ## 🚀 Featured projects
 
